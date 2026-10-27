@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="C-Playground/C-Playground.vcxproj" />
+  <Project Path="C-Playground/C-Playground.vcxproj" Id="cd1889e7-ede5-4d24-905a-084073d7dfe4" />
 </Solution>
